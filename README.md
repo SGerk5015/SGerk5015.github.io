@@ -35,3 +35,4 @@ in and graphed the shape being drawn
   
    Monitored Pool safety rules, addressed any safety hazards present, and audited pool safety equipment daily
   
+### Skills
