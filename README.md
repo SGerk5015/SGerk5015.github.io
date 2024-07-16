@@ -9,13 +9,13 @@
 #### Florida Poly 'Hackathons'
 October 13th, 2023
 
- Randomly placed in a team and collaborated to code and build a functioning mechanical arm which could successfully
+- Randomly placed in a team and collaborated to code and build a functioning mechanical arm which could successfully
 move small wooden blocks into a cup
 
 
 February 29th, 2024
 
- Randomly placed in a team and given an etch e sketch and components which were used to create a joystick system 
+- Randomly placed in a team and given an etch e sketch and components which were used to create a joystick system 
 which controlled the etch e sketch. Excel was also incorporated which tracked the direction the joystick traveled
 in and graphed the shape being drawn
 
@@ -28,11 +28,11 @@ in and graphed the shape being drawn
  Orientaion Leader May 2024 - Present
  
  
-   Help new students get accusomted to life at Florida Poly.
+-   Help new students get accusomted to life at Florida Poly.
 
   Lifeguard June 2021 - August 2022
 
   
-   Monitored Pool safety rules, addressed any safety hazards present, and audited pool safety equipment daily
+  - Monitored Pool safety rules, addressed any safety hazards present, and audited pool safety equipment daily
   
 ### Skills
