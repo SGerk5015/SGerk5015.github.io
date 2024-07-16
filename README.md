@@ -20,5 +20,6 @@ which controlled the etch e sketch. Excel was also incorporated which tracked th
 in and graphed the shape being drawn
 
 #### Data Science Projects
- Using a dataset found on kaggle.com I utilized the DecisionTreeRegressor and RandomForestRegressor to predict the price of a European Football teams.
+ **European Football Team Price Prediction:**
  
+   Using a dataset on European Football Teams and their prices I used DecisionTreeRegressor and RandomForestRegressor to create a Machine Learning Model to predict the price of the Teams based of the total revenue of the team, the stadium capacity, average attendance, and the market value of the players. Both models were largely unsuccsesful as the DecisionTreeRegressor had a mean absolute error of 1.5 billion Dollars and the RandomForestRegressor had a mean absolute error of 1.1 Billion Dollars. Code can be found [Here](https://www.kaggle.com/code/samgerken/random-forest-regressor-model)
