@@ -6,11 +6,11 @@
 - Est. Graduation May 2027
 
 ### Projects
- October 13th, 2023
- Randomly Place in a team and colloberated to code nad build a functioning mechanical arm which could succsessfully
+October 13th, 2023
+  Randomly placed in a team and collaborated to code and build a functioning mechanical arm which could successfully
  move small wooden blocks into a cup
 
- Febuary 29th, 2024
- Randomly Placed in a team and given an etch e sketch and components which were used to create a joystick system 
- which controled the etch e sketch. Excel was also incorportated which tracked the direction the joystick traveled
+ February 29th, 2024
+  Randomly placed in a team and given an etch e sketch and components which were used to create a joystick system 
+ which controlled the etch e sketch. Excel was also incorporated which tracked the direction the joystick traveled
  in and graphed the shape being drawn
