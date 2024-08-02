@@ -22,10 +22,13 @@ which controlled the etch e sketch. Excel was also incorporated which tracked th
 in and graphed the shape being drawn
 
 #### Data Science Projects
- **European Football Team Price Prediction:**
+ European Football Team Price Prediction:
  
-   Using a dataset on European Football Teams and their prices I used DecisionTreeRegressor and RandomForestRegressor to create a Machine Learning Model to predict the price of the Teams based of the total revenue of the team, the stadium capacity, average attendance, and the market value of the players. Both models were largely unsuccsesful as the DecisionTreeRegressor had a mean absolute error of 1.5 billion Dollars and the RandomForestRegressor had a mean absolute error of 1.1 Billion Dollars. Ultimatly this project motivated me to find methods which would produce a much lower mean absolute error. Code can be found [Here](https://www.kaggle.com/code/samgerken/random-forest-regressor-model)
+   Using a dataset on European Football Teams and their prices I used DecisionTreeRegressor and RandomForestRegressor to create a Machine Learning Model to predict the price of the Teams based of the total revenue of the team, the stadium capacity, average attendance, and the market value of the players. Both models were largely unsuccsesful as the DecisionTreeRegressor had a mean absolute error of 1.5 billion Dollars and the RandomForestRegressor had a mean absolute error of 1.1 Billion Dollars. Ultimately this project motivated me to find methods which would produce a much lower mean absolute error. Code can be found [Here](https://www.kaggle.com/code/samgerken/random-forest-regressor-model)
 
+ Bank Churn Modeling:
+
+  Using a dataset found [Here](https://www.superdatascience.com/pages/training), I used Tableau to 
 ______________________________________________________________________________________________________________________
 
 ### Work Experience
