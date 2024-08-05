@@ -28,7 +28,7 @@ in and graphed the shape being drawn
 
  Bank Churn Modeling:
 
-  Using a dataset found [Here](https://www.superdatascience.com/pages/training), I used Tableau to 
+  Using a dataset found [Here](https://www.superdatascience.com/pages/training), I used Tableau to model which columns had the largest risk of closing their bank account and products. With this analysis it is reccomeneded that the bank which provided the dataset should review the current marketing in Germany and marketing towards Women. Both of these catagories had larger than average churn rates which indicates better tactics by competitors to recurit new customers or that the bank is failing its own current customers
 ______________________________________________________________________________________________________________________
 
 ### Work Experience
