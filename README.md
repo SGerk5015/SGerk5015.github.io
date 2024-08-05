@@ -35,7 +35,7 @@ ________________________________________________________________________________
  Orientaion Leader May 2024 - Present
  
  
--   Help new students get accusomted to life at Florida Poly.
+-   Help students new to the university get accustomed to the university. Assist in campus events with new and current students.
 
   Lifeguard June 2021 - August 2022
 
@@ -47,6 +47,7 @@ ________________________________________________________________________________
 ### Skills
 - Python
 - SQL
+- Tableau
 - C
 - C++
 
