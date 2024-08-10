@@ -13,3 +13,4 @@
 
 ## Projects
 **Bank Churn Analysis using PowerBI**
+ [PDF can be found here](main/BankChurnAnalysis.pdf)
