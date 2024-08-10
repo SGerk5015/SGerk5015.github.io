@@ -12,5 +12,5 @@
 - Monitored and enforced pool safety rules, identified and addressed potential hazards, and conducted daily audits of safety equipment functionality to ensure compliance with the standards of the YMCA.
 
 ## Projects
-**Bank Churn Analysis using PowerBI**
- [PDF can be found here](main/BankChurnAnalysis.pdf)
+ **Bank Churn Analysis using PowerBI**
+ [PDF can be found here](main/Bank Churn Analysis.pdf)
