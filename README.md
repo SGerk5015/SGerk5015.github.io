@@ -19,3 +19,8 @@
  [Dataset can be found here](Churn-Modelling.xlsx)
 
  Using PowerBI, I analysed bank churn rates and created visuals of the rates. The visuals contain the geographic and gender breakdown within those who leave the bank. The goal of this project is to visualise possible weaknesses in the bank's marketing or provided services for those groups which have a higher than average churn rate.
+
+ 
+**IMDB Movie Database Analysis**
+
+ Using Tableau, I visualised the current trends in currently released movies and how these trends can be used by a film development company to create a movie which capitalizses on current trends
