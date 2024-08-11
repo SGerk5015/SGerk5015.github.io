@@ -24,3 +24,7 @@
 **IMDB Movie Database Analysis**
 
  Using Tableau, I visualised the current trends in currently released movies and how these trends can be used by a film development company to create a movie which capitalizses on current trends
+
+ **European Football Price Prediction**
+
+ Using python, I depolyed a machine learning algorithm which 
