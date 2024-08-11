@@ -13,4 +13,9 @@
 
 ## Projects
  **Bank Churn Analysis using PowerBI**
+ 
  [PDF can be found here](Bank-Churn-Analysis.pdf)
+ 
+ [Dataset can be found here](Churn-Modelling.xlsx)
+
+ Using PowerBI, I analysed bank churn rates and created visuals of the rates. The visuals contain the geographic and gender breakdown within those who leave the bank. The goal of this project is to visualise possible weaknesses in the bank's marketing or provided services for those groups which have a higher than average churn rate.
