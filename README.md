@@ -21,3 +21,11 @@
  [Dataset can be found here](Churn-Modelling.xlsx)
 
  Using PowerBI, I analysed bank churn rates and created visuals of the rates. The visuals contain the geographic and gender breakdown within those who leave the bank. The goal of this project is to visualise possible weaknesses in the bank's marketing or provided services for those groups which have a higher than average churn rate.
+
+**Soccer Team Price Prediction**
+
+ [Code can be found here](https://www.kaggle.com/code/samgerken/random-forest-regressor-model)
+
+ [Dataset can be found here](https://www.kaggle.com/datasets/rashadrmammadov/football-teams-price-prediction/data)
+
+ Using machine learning libraries like DecisionTreeRegressor and RandomForestRegressor created a model which predicts the prices of Soccer Teams in Europe from the dataset. While the final prediction does have a large amount of error, it is a step to understanding machine learning concepts so that more advanced models can be later built.
