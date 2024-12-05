@@ -22,6 +22,16 @@
 
  Using PowerBI, I analysed bank churn rates and created visuals of the rates. The visuals contain the geographic and gender breakdown within those who leave the bank. The goal of this project is to visualise possible weaknesses in the bank's marketing or provided services for those groups which have a higher than average churn rate.
 
+**Exploratory Data Analysis in R**
+
+[html can be found here](Final_Project_Draft.nb)
+
+[Rmd can be found here](Final_Project_Draft.Rmd)
+
+[Dataset used can be found here](Cleaned_DS_Jobs)
+
+ Using R I analyzed a dataset of glassdoor.com data science job postings to see the most common skills, the correlations between these skills, most common industries, and most common states from these job postings. I was able to do this with the tidyverse library.
+
 **Soccer Team Price Prediction**
 
  [Code can be found here](https://www.kaggle.com/code/samgerken/random-forest-regressor-model)
