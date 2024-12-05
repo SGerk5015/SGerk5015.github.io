@@ -24,7 +24,7 @@
 
 **Exploratory Data Analysis in R**
 
-[html can be found here](Final_Project_Draft.nb)
+[html can be found here](Final_Project_Draft.nb.html)
 
 [Rmd can be found here](Final_Project_Draft.Rmd)
 
