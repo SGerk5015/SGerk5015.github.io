@@ -1,9 +1,5 @@
 # Data Science Student
-**Visualizations Skills: PowerBI, Tableau, Excel**
-
-**Programming Skills: Python, R, SQL**
-
-**Other Skills: MATLAB**
+**Technical Skills: Python, R, PowerBI, Tableau, SQL, Excel, MATLAB**
 
 ## Education
  - Data Science Student @ Florida Polytechnic University
