@@ -24,9 +24,9 @@
 
 **Exploratory Data Analysis in R**
 
-[html can be found here](Final_Project_Draft.nb.html)
+[html can be found here](Glassdoor_EDA.nb.html)
 
-[Rmd can be found here](Final_Project_Draft.Rmd)
+[Rmd can be found here](Glassdoor_EDA.Rmd)
 
 [Dataset used can be found here](Cleaned_DS_Jobs)
 
