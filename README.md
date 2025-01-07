@@ -20,7 +20,7 @@
  
  [Dataset can be found here](Churn-Modelling.xlsx)
 
- Using PowerBI, I analysed bank churn rates and created visuals of the rates. The visuals contain the geographic and gender breakdown within those who leave the bank. The goal of this project is to visualise possible weaknesses in the bank's marketing or provided services for those groups which have a higher than average churn rate.
+ Using PowerBI, I analyzed the churn rate of a fictional bank’s customers across different key demographics. The key demographics I focused on were geography, gender, age, and membership status. In the dashboard I included elements like slicers so that the audience could interact with the dashboard to better understand the different churn rate across demographics. Specifically, the geography and age breakdown pages both include slicers so that the audience could interact with the page and gain more insights. In the last page of the dashboard I included the three more visuals which I felt best summarized the insights found in the dashboard, specifically the table shows the gender, geography, and age range of different customers sorted by their churn rate. This information along with the count of Customerid, which shows how many customers are in the specific group, can provide insights to the biggest demographics that leave the bank. For some future work in this dashboard, I could review the estimated salary and number of products variables.
 
 **Exploratory Data Analysis in R**
 
@@ -30,7 +30,7 @@
 
 [Dataset used can be found here](Cleaned_DS_Jobs)
 
- Using R I analyzed a dataset of glassdoor.com data science job postings to see the most common skills, the correlations between these skills, most common industries, and most common states from these job postings. I was able to do this with the tidyverse library.
+ Using R I analyzed a dataset of glassdoor.com data science job postings to see the most common skills, the correlations between these skills, most common industries, and most common states from these job postings. I was able to do this by using the tidyverse library.
 
 **Soccer Team Price Prediction**
 
