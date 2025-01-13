@@ -12,11 +12,19 @@
 - Monitored and enforced pool safety rules, identified and addressed potential hazards, and conducted daily audits of safety equipment functionality to ensure compliance with the standards of the YMCA.
 
 ## Projects
+**Pizza Database to Dashboard** 
+
+ [PBIX can be found here](Pizza-Database-to-Dashboard-Dashboard.pbix)
+
+ [SQL can be found here](Pizza-Database-to-Dashboard-Dashboard.sql)
+
+In this project I used MySQL to create a database for a fictional pizza place then connected it with PopSQL for querying and management. Then I connected this database to PowerBI so that I could analyize the insights for a fictional manager of this pizza place. Check out my other repository [here](https://github.com/SGerk5015/Pizza-Database-to-Dashboard/tree/main) for more information about how it was created and the data I used in each table of the database.
+
  **Bank Churn Analysis using PowerBI**
  
  [PDF can be found here](New_Churn_Analysis.pdf)
 
- [PBIX File can be found here](New_Churn_Analysis.pbix)
+ [PBIX can be found here](New_Churn_Analysis.pbix)
  
  [Dataset can be found here](Churn-Modelling.xlsx)
 
