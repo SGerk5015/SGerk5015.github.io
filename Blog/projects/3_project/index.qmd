@@ -1,0 +1,18 @@
+---
+title: "PowerBI Bank Churn Analysis"
+author: "Samuel Gerken"
+date: "2024-12-13"
+categories: [project, PowerBI]
+image: "powerbi_logo_1.avif"
+---
+
+Highlight: Used PowerBI to analize a fictional bank's churn rate
+
+[Data can be found here](Churn-Modelling.xlsx)
+
+[PBIX file can be found here](New_Churn_Analysis.pbix)
+
+[PDF of PowerBI file can be found here](New_Churn_Analysis.pdf)
+
+In this post I would like to talk about a PowerBI project I did where I analyzed the churn rate of a fictional bank's customers across different demographics. The key demographics I focused on were geography, gender, age, and membership status. In the dashboard I included elements like slicers so that the audience could interact with the dashboard to better understand the different churn rate across demographics. Specifically, the geography and age breakdown pages both include slicers so that the audience could interact with the page and gain more insights. In the last page of the dashboard I included the three more visuals which I felt best summarized the insights found in the dashboard, specifically the table shows the gender, geography, and age range of different customers sorted by their churn rate. This information along with the count of Customerid, which shows how many customers are in the specific group, can provide insights to the biggest demographics that leave the bank. For some future work in this dashboard, I could review the estimated salary and number of products variables.
+

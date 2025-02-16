@@ -1,0 +1,14 @@
+---
+title: "My First Machine Learning Project"
+author: "Samuel Gerken"
+date: "2024-07-01"
+categories: [project, machine learning]
+image: "Machine-learning-def-.png"
+---
+
+Highlight: Used DecisionTreeRegressor and RandomForestRegressor to create a model which predicts the prices of Soccer Teams in Europe
+
+
+In this post I would like to talk about my first machine learning project which I completed over Summer 2024.
+
+I created the project off of data I found on Kaggle.com and the dataset is on European Soccer Team data. The project sought to use two different machine learning models to try to predict the price of a European Soccer team. The model had an error of 1.16 billion pounds, while it was nowhere close to accurate, it did serve as a useful learning project.

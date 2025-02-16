@@ -1,0 +1,12 @@
+---
+title: "Data Visualization with PowerBI"
+author: "Samuel Gerken"
+date: "2024-11-22"
+categories: [PowerBI]
+---
+
+This talk was with the Data Science and Business Analytics Association at Florida Poly. We created an event where I gave a talk on what PowerBI is, its key features, data transformation and data visualization in PowerBI. Below is the slideshow I used for the presentation and the data I used in the slides
+
+[Data](PowerBI%20Workshop%20Data.xlsx)
+
+[Slideshow](PowerBI%20Workshop%20Presentation.pdf)

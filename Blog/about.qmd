@@ -1,0 +1,16 @@
+---
+title: "About Me"
+image: 1734292846163.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/SGerk5015
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/samuel-gerken/
+
+---
+
+Weclome to my website! Look to the top right to find my projects, talks, and links to my github and linkedin! Below are the same links

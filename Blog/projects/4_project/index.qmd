@@ -1,0 +1,19 @@
+---
+title: "Pizza-Dashboard-to-Database"
+author: "Samuel Gerken"
+date: "2025-01-10"
+categories: [project, PowerBI]
+image: "mysqlimage.png"
+---
+
+Highlight: Used MySQL, PopSQL, and PowerBI to create, edit, and visualize data in a dashboard.
+
+
+[SQL Here](Pizza-Database-to-Dashboard-Database.sql)
+
+[PBIX file can be found here](Pizza-Database-to-Dashboard-Dashboard.pbix)
+
+In this project I used MySQL to create a database for a fictional pizza place then connected it with PopSQL for querying and management. Then I connected this database to PowerBI so that I could analyize the insights for a fictional manager of this pizza place. Check out my other repository here for more information about how it was created and the data I used in each table of the database.
+
+I get very in-depth into how I created the project from scratch in the followin [repository](https://github.com/SGerk5015/Pizza-Database-to-Dashboard)
+

@@ -1,0 +1,15 @@
+---
+title: "Exploratory Data Analysis in R"
+author: "Samuel Gerken"
+date: "2024-12-04"
+categories: [project, R]
+image: "R_logo.svg.png"
+---
+
+Highlight: Used R, RStudio, and the tidyverse libary to visualize trends
+
+[html File Can Be Found Here](Glassdoor_EDA.nb.html)
+
+[rmd File Can Be Found Here](https://github.com/SGerk5015/SGerk5015.github.io/blob/main/Glassdoor_EDA.Rmd)
+
+Using R I analyzed a dataset of glassdoor.com data science job postings to see the most common skills, the correlations between these skills, most common industries, and most common states from these job postings. I was able to do this by using the tidyverse library.
