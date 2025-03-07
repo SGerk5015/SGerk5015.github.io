@@ -39,14 +39,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Weclome to my website! My Name is Samuel Gerken and I am a motivated data science student who has an interest in all things data. I try to make at least one project monthly so look to the top right to find my projects, talks, and links to my github and linkedin! Below are the same links."
+    "text": "Welcome to my website! My Name is Samuel Gerken and I am a motivated data science student who has an interest in all things data. I try to make at least one project monthly so look to the top right to find my projects, talks, and links to my github and linkedin! Below are the same links."
   },
   {
     "objectID": "projects/2_project/index.html",
     "href": "projects/2_project/index.html",
     "title": "My First Machine Learning Project",
     "section": "",
-    "text": "Highlight: Used DecisionTreeRegressor and RandomForestRegressor to create a model which predicts the prices of Soccer Teams in Europe\nIn this post I would like to talk about my first machine learning project which I completed over Summer 2024.\nI created the project off of data I found on Kaggle.com and the dataset is on European Soccer Team data. The project sought to use two different machine learning models to try to predict the price of a European Soccer team. The model had an error of 1.16 billion pounds, while it was nowhere close to accurate, it did serve as a useful learning project."
+    "text": "Highlight: Used DecisionTreeRegressor and RandomForestRegressor to create a model which predicts the prices of Soccer Teams in Europe\nLink to code on kaggle\ndataset\nIn this post I would like to talk about my first machine learning project which I completed over Summer 2024.\nI created the project off of data I found on Kaggle.com and the dataset is on European Soccer Team data. The project sought to use two different machine learning models to try to predict the price of a European Soccer team. The model had an error of 1.16 billion pounds, while it was nowhere close to accurate, it did serve as a useful learning project."
   },
   {
     "objectID": "projects/4_project/index.html",
