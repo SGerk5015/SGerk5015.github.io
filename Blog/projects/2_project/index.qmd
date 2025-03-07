@@ -8,6 +8,11 @@ image: "Machine-learning-def-.png"
 
 Highlight: Used DecisionTreeRegressor and RandomForestRegressor to create a model which predicts the prices of Soccer Teams in Europe
 
+[Link to code on kaggle](https://www.kaggle.com/code/samgerken/random-forest-regressor-model) 
+
+[ipynb file](random-forest-regressor-model.ipynb) 
+
+[dataset](Football_teams_price_data.csv) 
 
 In this post I would like to talk about my first machine learning project which I completed over Summer 2024.
 
