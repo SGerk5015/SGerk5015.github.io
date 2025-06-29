@@ -9,7 +9,7 @@ website:
       - projects.qmd
       - talks.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/SGerk5015
       - icon: linkedin
         href: https://www.linkedin.com/in/samuel-gerken/
 format:

@@ -6,7 +6,7 @@ categories: [project, PowerBI]
 image: "powerbi_logo_1.avif"
 ---
 
-Highlight: Used PowerBI to analize a fictional bank's churn rate
+Highlight: Used PowerBI to analyze a fictional bank's churn rate
 
 [Data can be found here](Churn-Modelling.xlsx)
 

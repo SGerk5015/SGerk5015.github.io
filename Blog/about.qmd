@@ -13,4 +13,4 @@ about:
 
 ---
 
-Welcome to my website! My Name is Samuel Gerken and I am a motivated data science student who has an interest in all things data. I try to make at least one project monthly so look to the top right to find my projects, talks, and links to my github and linkedin! Below are the same links.
+Welcome to my website! My Name is Samuel Gerken and I am a motivated data science student who has an interest in all things data. Below is my Github and Linkedin and the same link is in the top right!
