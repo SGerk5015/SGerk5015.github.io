@@ -25,7 +25,7 @@
     "href": "projects/3_project/index.html",
     "title": "PowerBI Bank Churn Analysis",
     "section": "",
-    "text": "Highlight: Used PowerBI to analize a fictional bank’s churn rate\nData can be found here\nPBIX file can be found here\nPDF of PowerBI file can be found here\nIn this post I would like to talk about a PowerBI project I did where I analyzed the churn rate of a fictional bank’s customers across different demographics. The key demographics I focused on were geography, gender, age, and membership status. In the dashboard I included elements like slicers so that the audience could interact with the dashboard to better understand the different churn rate across demographics. Specifically, the geography and age breakdown pages both include slicers so that the audience could interact with the page and gain more insights. In the last page of the dashboard I included the three more visuals which I felt best summarized the insights found in the dashboard, specifically the table shows the gender, geography, and age range of different customers sorted by their churn rate. This information along with the count of Customerid, which shows how many customers are in the specific group, can provide insights to the biggest demographics that leave the bank. For some future work in this dashboard, I could review the estimated salary and number of products variables."
+    "text": "Highlight: Used PowerBI to analyze a fictional bank’s churn rate\nData can be found here\nPBIX file can be found here\nPDF of PowerBI file can be found here\nIn this post I would like to talk about a PowerBI project I did where I analyzed the churn rate of a fictional bank’s customers across different demographics. The key demographics I focused on were geography, gender, age, and membership status. In the dashboard I included elements like slicers so that the audience could interact with the dashboard to better understand the different churn rate across demographics. Specifically, the geography and age breakdown pages both include slicers so that the audience could interact with the page and gain more insights. In the last page of the dashboard I included the three more visuals which I felt best summarized the insights found in the dashboard, specifically the table shows the gender, geography, and age range of different customers sorted by their churn rate. This information along with the count of Customerid, which shows how many customers are in the specific group, can provide insights to the biggest demographics that leave the bank. For some future work in this dashboard, I could review the estimated salary and number of products variables."
   },
   {
     "objectID": "projects/1_description/index.html",
@@ -39,7 +39,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Welcome to my website! My Name is Samuel Gerken and I am a motivated data science student who has an interest in all things data. I try to make at least one project monthly so look to the top right to find my projects, talks, and links to my Github and Linkedin! Below are the same links."
+    "text": "Welcome to my website! My Name is Samuel Gerken and I am a motivated data science student who has an interest in all things data. Below is my Github and Linkedin and the same link is in the top right!"
   },
   {
     "objectID": "projects/2_project/index.html",
