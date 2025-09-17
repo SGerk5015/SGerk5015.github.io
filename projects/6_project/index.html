@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Samuel Gerken">
+<meta name="dcterms.date" content="2024-09-17">
 
-<title>Projects – Samuel Gerken</title>
+<title>Outlet Sales Prediction – Samuel Gerken</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2f6844b3748638c5738d4cf93630e566.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-2f6844b3748638c5738d4cf93630e566.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,77 +68,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Samuel Gerken</span>
     </a>
   </div>
@@ -149,15 +91,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
+    <a class="nav-link" href="../../projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html"> 
+    <a class="nav-link" href="../../talks.html"> 
 <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item compact">
@@ -180,279 +122,55 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Projects</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Outlet Sales Prediction</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">project</div>
+                <div class="quarto-category">python</div>
+                <div class="quarto-category">machine learning</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Samuel Gerken </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">September 17, 2024</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="UG93ZXJCSQ==">PowerBI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZGVzY3JpcHRpb24=">description <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWFjaGluZSUyMGxlYXJuaW5n">machine learning <span class="quarto-category-count">(2)</span></div><div class="category" data-category="cHJvamVjdA==">project <span class="quarto-category-count">(5)</span></div><div class="category" data-category="cHl0aG9u">python <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>Highlights: Used Python and machine learning libraries like scikit-learn and XGBoost to predict sales of products at different shopping outlets</p>
+<p><a href="../../projects/6_project/Outlet_Sales_Prediction.html">ipynb file found here</a></p>
+<p>This project predicted the sales of different products at different outlets. I cleaned and replaced null values of the data so it could be used more effectively with machine learning.I used five seperate models and evaulated which ones where the most effective at predicting the the sales of the different products.</p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="ZGVzY3JpcHRpb24=" data-listing-file-modified-sort="1739741619824" data-listing-reading-time-sort="1" data-listing-word-count-sort="38">
-<div class="thumbnail">
-<p><a href="./projects/1_description/index.html" class="no-external"></a></p><a href="./projects/1_description/index.html" class="no-external">
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-</a><p><a href="./projects/1_description/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/1_description/index.html" class="no-external">Welcome to my Project Portfolio</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/1_description/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('ZGVzY3JpcHRpb24='); return false;">
-description
-</div>
-</div>
-<div class="listing-description">
-<a href="./projects/1_description/index.html" class="no-external">Weclome to my Project Portfolio! I try to learn as much as possible about the world of data so you will see machine learning projects, data analysis projects, or whatever I…</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./projects/1_description/index.html" class="no-external"></a></p><a href="./projects/1_description/index.html" class="no-external">
-<div class="listing-author">
-Samuel Gerken
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1758139563619" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
-<div class="thumbnail">
-<p><a href="./projects/6_project/Outlet_Sales_Prediction.html" class="no-external"></a></p><a href="./projects/6_project/Outlet_Sales_Prediction.html" class="no-external">
-<p class="card-img-top"><img src="projects\6_project\Outlet_Sales_Prediction_files\figure-html\cell-6-output-1.png"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./projects/6_project/Outlet_Sales_Prediction.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/6_project/Outlet_Sales_Prediction.html" class="no-external"></a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/6_project/Outlet_Sales_Prediction.html" class="no-external"></a>
-</div>
-<div class="listing-description">
-<a href="./projects/6_project/Outlet_Sales_Prediction.html" class="no-external">Replacing Null Values</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./projects/6_project/Outlet_Sales_Prediction.html" class="no-external"></a></p><a href="./projects/6_project/Outlet_Sales_Prediction.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="cHJvamVjdCUyQ1Bvd2VyQkk=" data-listing-date-sort="1736485200000" data-listing-file-modified-sort="1739741619882" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="106">
-<div class="thumbnail">
-<p><a href="./projects/4_project/index.html" class="no-external"></a></p><a href="./projects/4_project/index.html" class="no-external">
-<p><img loading="lazy" src="./projects/4_project/mysqlimage.png" class="thumbnail-image"></p>
-</a><p><a href="./projects/4_project/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/4_project/index.html" class="no-external">Pizza-Dashboard-to-Database</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/4_project/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdA=='); return false;">
-project
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UG93ZXJCSQ=='); return false;">
-PowerBI
-</div>
-</div>
-<div class="listing-description">
-<a href="./projects/4_project/index.html" class="no-external">Highlight: Used MySQL, PopSQL, and PowerBI to create, edit, and visualize data in a dashboard.</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/4_project/index.html" class="no-external">
-<div class="listing-date">
-Jan 10, 2025
-</div>
-<div class="listing-author">
-Samuel Gerken
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="cHJvamVjdCUyQ1Bvd2VyQkk=" data-listing-date-sort="1734066000000" data-listing-file-modified-sort="1751219156056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
-<div class="thumbnail">
-<p><a href="./projects/3_project/index.html" class="no-external"></a></p><a href="./projects/3_project/index.html" class="no-external">
-<p><img loading="lazy" src="./projects/3_project/powerbi_logo_1.avif" class="thumbnail-image"></p>
-</a><p><a href="./projects/3_project/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/3_project/index.html" class="no-external">PowerBI Bank Churn Analysis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/3_project/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdA=='); return false;">
-project
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UG93ZXJCSQ=='); return false;">
-PowerBI
-</div>
-</div>
-<div class="listing-description">
-<a href="./projects/3_project/index.html" class="no-external">Highlight: Used PowerBI to analyze a fictional bank’s churn rate</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/3_project/index.html" class="no-external">
-<div class="listing-date">
-Dec 13, 2024
-</div>
-<div class="listing-author">
-Samuel Gerken
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="cHJvamVjdCUyQ1I=" data-listing-date-sort="1733288400000" data-listing-file-modified-sort="1739741619909" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
-<div class="thumbnail">
-<p><a href="./projects/5_project/index.html" class="no-external"></a></p><a href="./projects/5_project/index.html" class="no-external">
-<p><img loading="lazy" src="./projects/5_project/R_logo.svg.png" class="thumbnail-image"></p>
-</a><p><a href="./projects/5_project/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/5_project/index.html" class="no-external">Exploratory Data Analysis in R</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/5_project/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdA=='); return false;">
-project
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">
-R
-</div>
-</div>
-<div class="listing-description">
-<a href="./projects/5_project/index.html" class="no-external">Highlight: Used R, RStudio, and the tidyverse libary to visualize trends</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/5_project/index.html" class="no-external">
-<div class="listing-date">
-Dec 4, 2024
-</div>
-<div class="listing-author">
-Samuel Gerken
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="cHJvamVjdCUyQ3B5dGhvbiUyQ21hY2hpbmUlMjBsZWFybmluZw==" data-listing-date-sort="1726545600000" data-listing-file-modified-sort="1758146430735" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="74">
-<div class="thumbnail">
-<p><a href="./projects/6_project/index.html" class="no-external"></a></p><a href="./projects/6_project/index.html" class="no-external">
-<p><img loading="lazy" src="./projects/6_project/neural_network.jpg" class="thumbnail-image"></p>
-</a><p><a href="./projects/6_project/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/6_project/index.html" class="no-external">Outlet Sales Prediction</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/6_project/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdA=='); return false;">
-project
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('cHl0aG9u'); return false;">
-python
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('bWFjaGluZSUyMGxlYXJuaW5n'); return false;">
-machine learning
-</div>
-</div>
-<div class="listing-description">
-<a href="./projects/6_project/index.html" class="no-external">Highlights: Used Python and machine learning libraries like scikit-learn and XGBoost to predict sales of products at different shopping outlets</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/6_project/index.html" class="no-external">
-<div class="listing-date">
-Sep 17, 2024
-</div>
-<div class="listing-author">
-Samuel Gerken
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="cHJvamVjdCUyQ21hY2hpbmUlMjBsZWFybmluZw==" data-listing-date-sort="1719806400000" data-listing-file-modified-sort="1742243375456" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="107">
-<div class="thumbnail">
-<p><a href="./projects/2_project/index.html" class="no-external"></a></p><a href="./projects/2_project/index.html" class="no-external">
-<p><img loading="lazy" src="./projects/2_project/Machine-learning-def-.png" class="thumbnail-image"></p>
-</a><p><a href="./projects/2_project/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./projects/2_project/index.html" class="no-external">My First Machine Learning Project</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./projects/2_project/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('cHJvamVjdA=='); return false;">
-project
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('bWFjaGluZSUyMGxlYXJuaW5n'); return false;">
-machine learning
-</div>
-</div>
-<div class="listing-description">
-<a href="./projects/2_project/index.html" class="no-external">Highlight: Used DecisionTreeRegressor and RandomForestRegressor to create a model which predicts the prices of Soccer Teams in Europe</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./projects/2_project/index.html" class="no-external">
-<div class="listing-date">
-Jul 1, 2024
-</div>
-<div class="listing-author">
-Samuel Gerken
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

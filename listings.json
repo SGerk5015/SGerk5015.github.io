@@ -3,6 +3,7 @@
     "listing": "/talks.html",
     "items": [
       "/talks/1_talk/index.html",
+      "/talks/3_talk/index.html",
       "/talks/2_talk/index.html"
     ]
   },
@@ -10,9 +11,11 @@
     "listing": "/projects.html",
     "items": [
       "/projects/1_description/index.html",
+      "/projects/6_project/Outlet_Sales_Prediction.html",
       "/projects/4_project/index.html",
       "/projects/3_project/index.html",
       "/projects/5_project/index.html",
+      "/projects/6_project/index.html",
       "/projects/2_project/index.html"
     ]
   }
