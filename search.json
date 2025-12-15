@@ -18,49 +18,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Welcome to my Project Portfolio\n\n\n\n\n\n\ndescription\n\n\n\n\n\n\n\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nItem Identification using Neural Networks\n\n\n\n\n\n\nproject\n\n\npython\n\n\nmachine learning\n\n\n\n\n\n\n\n\n\nOct 30, 2025\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nOutlet Sales Prediction\n\n\n\n\n\n\nproject\n\n\npython\n\n\nmachine learning\n\n\n\n\n\n\n\n\n\nSep 17, 2025\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nPizza-Dashboard-to-Database\n\n\n\n\n\n\nproject\n\n\nPowerBI\n\n\nSQL\n\n\n\n\n\n\n\n\n\nJan 10, 2025\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nPowerBI Bank Churn Analysis\n\n\n\n\n\n\nproject\n\n\nPowerBI\n\n\n\n\n\n\n\n\n\nDec 13, 2024\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nExploratory Data Analysis in R\n\n\n\n\n\n\nproject\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Machine Learning Project\n\n\n\n\n\n\nproject\n\n\nmachine learning\n\n\npython\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nSamuel Gerken\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to my Project Portfolio\n\n\n\n\n\n\ndescription\n\n\n\n\n\n\n\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nItem Identification using Neural Networks\n\n\n\n\n\n\nproject\n\n\npython\n\n\nmachine learning\n\n\n\n\n\n\n\n\n\nOct 30, 2025\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nOutlet Sales Prediction\n\n\n\n\n\n\nproject\n\n\npython\n\n\nmachine learning\n\n\n\n\n\n\n\n\n\nSep 17, 2025\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nHardware Store Database\n\n\n\n\n\n\ndatabase\n\n\nsql\n\n\nmariadb\n\n\n\n\n\n\n\n\n\nApr 10, 2025\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nPizza-Dashboard-to-Database\n\n\n\n\n\n\nproject\n\n\nPowerBI\n\n\nSQL\n\n\n\n\n\n\n\n\n\nJan 10, 2025\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nPowerBI Bank Churn Analysis\n\n\n\n\n\n\nproject\n\n\nPowerBI\n\n\n\n\n\n\n\n\n\nDec 13, 2024\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nExploratory Data Analysis in R\n\n\n\n\n\n\nproject\n\n\nR\n\n\n\n\n\n\n\n\n\nDec 4, 2024\n\n\nSamuel Gerken\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Machine Learning Project\n\n\n\n\n\n\nproject\n\n\nmachine learning\n\n\npython\n\n\n\n\n\n\n\n\n\nJul 1, 2024\n\n\nSamuel Gerken\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/6_project/index.html",
-    "href": "projects/6_project/index.html",
-    "title": "Outlet Sales Prediction",
+    "objectID": "projects/7_project/index.html",
+    "href": "projects/7_project/index.html",
+    "title": "Item Identification using Neural Networks",
     "section": "",
-    "text": "Highlights: Used Python and machine learning libraries like scikit-learn and XGBoost to predict sales of products at different shopping outlets\nLink to repo with data + ipynb files\nThis project predicted the sales of different products at different outlets. I cleaned and replaced null values of the data so it could be used more effectively with machine learning. I used five separate models and evaluated which ones where the most effective at predicting the sales of the different products."
-  },
-  {
-    "objectID": "projects/4_project/index.html",
-    "href": "projects/4_project/index.html",
-    "title": "Pizza-Dashboard-to-Database",
-    "section": "",
-    "text": "Highlight: Used MySQL, PopSQL, and PowerBI to create, edit, and visualize data in a dashboard.\nLink to repo with sql and PowerBI dashboard\nIn this project I used MySQL to create a database for a fictional pizza place then connected it with PopSQL for querying and management. Then I connected this database to PowerBI so that I could analyze the insights for a fictional manager of this pizza place. Check out my other repository here for more information about how it was created and the data I used in each table of the database.\nI get very in-depth into how I created the project from scratch in the following repository"
-  },
-  {
-    "objectID": "projects/2_project/index.html",
-    "href": "projects/2_project/index.html",
-    "title": "My First Machine Learning Project",
-    "section": "",
-    "text": "Highlight: Used DecisionTreeRegressor and RandomForestRegressor to create a model which predicts the prices of Soccer Teams in Europe\nLink to repo with code + data\nIn this post I would like to talk about my first machine learning project which I completed over Summer 2024.\nI created the project off of data I found on Kaggle.com and the dataset is on European Soccer Team data. The project sought to use two different machine learning models to try to predict the price of a European Soccer team. The model had an error of 1.16 billion pounds, while it was nowhere close to accurate, it did serve as a useful learning project."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Welcome to my website! My Name is Samuel Gerken and I am a motivated data science student who has an interest in all things data. Below is my Github and Linkedin and the same link is in the top right!"
-  },
-  {
-    "objectID": "projects/1_description/index.html",
-    "href": "projects/1_description/index.html",
-    "title": "Welcome to my Project Portfolio",
-    "section": "",
-    "text": "Welcome to my Project Portfolio! I try to learn as much as possible about the world of data so you will see machine learning projects, data analysis projects, or whatever I am trying to learn at the time."
-  },
-  {
-    "objectID": "projects/3_project/index.html",
-    "href": "projects/3_project/index.html",
-    "title": "PowerBI Bank Churn Analysis",
-    "section": "",
-    "text": "Highlight: Used PowerBI to analyze a fictional bank’s churn rate\nLink to repo with data, PBIX file, and pdf of the dashboard\nIn this post I would like to talk about a PowerBI project I did where I analyzed the churn rate of a fictional bank’s customers across different demographics. The key demographics I focused on were geography, gender, age, and membership status. In the dashboard I included elements like slicers so that the audience could interact with the dashboard to better understand the different churn rate across demographics. Specifically, the geography and age breakdown pages both include slicers so that the audience could interact with the page and gain more insights. In the last page of the dashboard I included the three more visuals which I felt best summarized the insights found in the dashboard, specifically the table shows the gender, geography, and age range of different customers sorted by their churn rate. This information along with the count of Customerid, which shows how many customers are in the specific group, can provide insights to the biggest demographics that leave the bank. For some future work in this dashboard, I could review the estimated salary and number of products variables."
+    "text": "Highlights: Created a model which could classify images of grocery store items into their respective category of items.\nLink to repo with data + ipynb\nThis project used tensorflow.keras to create a model which could identify the category (1 of 25) from a picture of a grocery store item 80.40% of the time. The dataset was sourced from The Freiburg Groceries Dataset a dataset often used for similar projects of computer vision tests."
   },
   {
     "objectID": "projects/5_project/index.html",
@@ -70,11 +35,53 @@
     "text": "Highlight: Used R, RStudio, and the tidyverse libary to visualize trends\nLink to repo with data, nb file, and html project file\nUsing R I analyzed a dataset of glassdoor.com data science job postings to see the most common skills, the correlations between these skills, most common industries, and most common states from these job postings. I was able to do this by using the tidyverse library."
   },
   {
-    "objectID": "projects/7_project/index.html",
-    "href": "projects/7_project/index.html",
-    "title": "Item Identification using Neural Networks",
+    "objectID": "projects/3_project/index.html",
+    "href": "projects/3_project/index.html",
+    "title": "PowerBI Bank Churn Analysis",
     "section": "",
-    "text": "Highlights: Created a model which could classify images of grocery store items into their respective category of items.\nLink to repo with data + ipynb\nThis project used tensorflow.keras to create a model which could identify the category (1 of 25) from a picture of a grocery store item 80.40% of the time. The dataset was sourced from The Freiburg Groceries Dataset a dataset often used for similar projects of computer vision tests."
+    "text": "Highlight: Used PowerBI to analyze a fictional bank’s churn rate\nLink to repo with data, PBIX file, and pdf of the dashboard\nIn this post I would like to talk about a PowerBI project I did where I analyzed the churn rate of a fictional bank’s customers across different demographics. The key demographics I focused on were geography, gender, age, and membership status. In the dashboard I included elements like slicers so that the audience could interact with the dashboard to better understand the different churn rate across demographics. Specifically, the geography and age breakdown pages both include slicers so that the audience could interact with the page and gain more insights. In the last page of the dashboard I included the three more visuals which I felt best summarized the insights found in the dashboard, specifically the table shows the gender, geography, and age range of different customers sorted by their churn rate. This information along with the count of Customerid, which shows how many customers are in the specific group, can provide insights to the biggest demographics that leave the bank. For some future work in this dashboard, I could review the estimated salary and number of products variables."
+  },
+  {
+    "objectID": "projects/1_description/index.html",
+    "href": "projects/1_description/index.html",
+    "title": "Welcome to my Project Portfolio",
+    "section": "",
+    "text": "Welcome to my Project Portfolio! I try to learn as much as possible about the world of data so you will see machine learning projects, data analysis projects, or whatever I am trying to learn at the time."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Welcome to my website! My Name is Samuel Gerken and I am a motivated data science student who has an interest in all things data. Below is my Github and Linkedin and the same link is in the top right!"
+  },
+  {
+    "objectID": "projects/2_project/index.html",
+    "href": "projects/2_project/index.html",
+    "title": "My First Machine Learning Project",
+    "section": "",
+    "text": "Highlight: Used DecisionTreeRegressor and RandomForestRegressor to create a model which predicts the prices of Soccer Teams in Europe\nLink to repo with code + data\nIn this post I would like to talk about my first machine learning project which I completed over Summer 2024.\nI created the project off of data I found on Kaggle.com and the dataset is on European Soccer Team data. The project sought to use two different machine learning models to try to predict the price of a European Soccer team. The model had an error of 1.16 billion pounds, while it was nowhere close to accurate, it did serve as a useful learning project."
+  },
+  {
+    "objectID": "projects/4_project/index.html",
+    "href": "projects/4_project/index.html",
+    "title": "Pizza-Dashboard-to-Database",
+    "section": "",
+    "text": "Highlight: Used MySQL, PopSQL, and PowerBI to create, edit, and visualize data in a dashboard.\nLink to repo with sql and PowerBI dashboard\nIn this project I used MySQL to create a database for a fictional pizza place then connected it with PopSQL for querying and management. Then I connected this database to PowerBI so that I could analyze the insights for a fictional manager of this pizza place. Check out my other repository here for more information about how it was created and the data I used in each table of the database.\nI get very in-depth into how I created the project from scratch in the following repository"
+  },
+  {
+    "objectID": "projects/6_project/index.html",
+    "href": "projects/6_project/index.html",
+    "title": "Outlet Sales Prediction",
+    "section": "",
+    "text": "Highlights: Used Python and machine learning libraries like scikit-learn and XGBoost to predict sales of products at different shopping outlets\nLink to repo with data + ipynb files\nThis project predicted the sales of different products at different outlets. I cleaned and replaced null values of the data so it could be used more effectively with machine learning. I used five separate models and evaluated which ones where the most effective at predicting the sales of the different products."
+  },
+  {
+    "objectID": "projects/8_project/index.html",
+    "href": "projects/8_project/index.html",
+    "title": "Hardware Store Database",
+    "section": "",
+    "text": "Highlights: For a class project, created a fictional hardware store database used to understand vendor, product, and customer information\nLink to repo with data + ipynb\nThis was a final project for my Database 1 class, in it my project partner and I created a fictional harware stores database with 14 different tables. Using MariaDB we created the database and were able to query it so that it showcased important customer, employee, and product information for actionable analytics for the business."
   },
   {
     "objectID": "talks/1_talk/index.html",
