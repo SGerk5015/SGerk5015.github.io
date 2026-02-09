@@ -25,7 +25,7 @@
     "href": "projects/8_project/index.html",
     "title": "Hardware Store Database",
     "section": "",
-    "text": "Highlights: For a class project, created a fictional hardware store database used to understand vendor, product, and customer information\nLink to repo with data + ipynb\nThis was a final project for my Database 1 class, in it my project partner and I created a fictional harware stores database with 14 different tables. Using MariaDB we created the database and were able to query it so that it showcased important customer, employee, and product information for actionable analytics for the business."
+    "text": "Highlights: For a class project, created a fictional hardware store database used to understand vendor, product, and customer information\nLink to repo with data + ipynb\nThis was a final project for my Database 1 class, in it my project my teammate and I created a fictional hardware stores database with 14 different tables. Using MariaDB we created the database and were able to query it so that it showed important customer, employee, and product information for actionable analytics for the business."
   },
   {
     "objectID": "projects/6_project/index.html",
@@ -88,7 +88,7 @@
     "href": "projects/9_project/index.html",
     "title": "Cloud Computing Instacart Reccomendation System",
     "section": "",
-    "text": "Highlights: Using Amazon Web Services, created a reccemendation system which reccomends products based off of one selected product\nThis was a final project for my Cloud Computing class. For this project my goal was to create a reccomendation system based on instacart data found at kaggle. The project used a general purpose S3 bucket, Amazon SageMaker AI to train a reccomendation model - which was really just a dictionary, and an EC2 static website to allow users to input a product and get 5 other product reccomendations based on the order data which the model was trained on.\nFor a detailed report, the contents of the EC2 instance which hosted the website, and a readme, please visit my project repository here"
+    "text": "Highlights: Using Amazon Web Services, created a recommendation system which recommends products based off of one selected product\nThis was a final project for my Cloud Computing class. For this project my goal was to create a recommendation system based on Instacart data found at kaggle. The project used a general purpose S3 bucket, Amazon SageMaker AI to train a recommendation model - which was really just a dictionary, and an EC2 static website to allow users to input a product and get 5 other product recommendations based on the order data which the model was trained on.\nFor a detailed report, the contents of the EC2 instance which hosted the website, and a readme, please visit my project repository here"
   },
   {
     "objectID": "talks/1_talk/index.html",
